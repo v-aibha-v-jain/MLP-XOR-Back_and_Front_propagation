@@ -47,7 +47,7 @@ This project implements and experiments with a simple Multi-Layer Perceptron (ML
 
 ## How to Run
 
-1. Clone the repository and install requirements (see `requirements.txt` if provided).
+1. Clone the repository and install requirements (see `requirements.txt`).
 2. Run the main script to train and visualize the MLP on XOR.
 3. Check the code and plots for each activity above.
 
